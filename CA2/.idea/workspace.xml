@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="353d9b57-ca71-4d5b-96c9-333bd5340d01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CA_1/Ca_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled folder/CA1_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-5/practice_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week-5/practice_10.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2fVxJ3nvWKcGlJkJjccGWBFu4nc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CA2_project.executor": "Run",
+    "Python.help.executor": "Run",
+    "Python.help1.executor": "Run",
+    "Python.help2.executor": "Run",
+    "Python.help3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/rio/rokoloCOS102/CA2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353d9b57-ca71-4d5b-96c9-333bd5340d01" name="Changes" comment="" />
+      <created>1713899970589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713899970589</updated>
+    </task>
+    <servers />
+  </component>
+</project>
