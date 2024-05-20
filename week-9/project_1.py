@@ -34,6 +34,8 @@ class Employee:
             label_2 = tk.Label(window, text=f"This is your task for today {task}")
             label_2.pack()
 
+
+
     def refuse_access(self):
         if self.name in employees:
             pass
