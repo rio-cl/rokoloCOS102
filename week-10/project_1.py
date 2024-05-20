@@ -22,10 +22,10 @@ class Zenith(object):
 
 class Retail_banking(Zenith):
     def unique_services(self):
-        return "Loans and Mortgages", "Checking and Saving"
+        return ["Loans and Mortgages", "Checking and Saving"]
 
     def mutual_services(self):
-        return "Lines of Credit", "Investment Management and Accounts", "Insurance", "Retirement and Education Accounts"
+        return ["Lines of Credit", "Investment Management and Accounts", "Insurance", "Retirement and Education Accounts"]
 
     def total_services(self):
         total = self.mutual_services() + self.unique_services()
