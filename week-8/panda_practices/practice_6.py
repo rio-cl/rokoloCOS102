@@ -8,3 +8,4 @@ df = data.iloc[0]
 
 # print excel
 print(df)
+print(data["Years"])

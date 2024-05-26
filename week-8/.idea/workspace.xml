@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab09280e-5a35-4ab5-9270-cf3ead31e525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../week-10/help.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-10/project_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../week-10/project_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/help2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/help3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/help_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/practice_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week-11/project_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panda_practices/practice_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/panda_practices/practice_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panda_practices/practice_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/panda_practices/practice_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +28,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ghj6AHt9BLqUYhL6OVws3HixbJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.practice_3.executor": "Run",
+    "Python.practice_6.executor": "Run",
+    "Python.practice_7.executor": "Run",
+    "Python.practice_9.executor": "Run",
+    "Python.project_1.1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
