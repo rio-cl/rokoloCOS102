@@ -1,5 +1,5 @@
 class Student:
-    # contructor
+    # Contructor
     def __init__(self, name, roll_no, age):
         # public instance variable
         self.name = name
@@ -22,6 +22,7 @@ class Student:
             print('Invalid roll no. Please set correct roll number')
         else:
             self.__roll_no = number
+
 
 # object instanc=tiation
 info = Student('David Usim', 10, 15)
